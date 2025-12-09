@@ -1,9 +1,9 @@
-name: CI
+name: Python CI
 
 on:
   push:
     branches:
-      - setup-task
+      - task-1
   pull_request:
 
 jobs:
