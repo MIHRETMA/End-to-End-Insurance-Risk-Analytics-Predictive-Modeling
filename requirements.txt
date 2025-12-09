@@ -1,0 +1,15 @@
+# Data Handling and Numerics
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Project Utilities 
+pyyaml  # For configuration files if you create them
+
+# # Modeling, DVC, Stats
+# dvc
+# scikit-learn
+# statsmodels
